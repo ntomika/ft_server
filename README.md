@@ -1,2 +1,2 @@
 # ft_server
-ft_server (school21)
+Знакомство с Doker и настройка простого web-сервера.
